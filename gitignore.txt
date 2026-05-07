@@ -1,0 +1,8 @@
+*.mp4
+*.zip
+*.sql
+tmp/
+pro/tmp/
+uploads/
+video/
+node_modules/
